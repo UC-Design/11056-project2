@@ -13,6 +13,7 @@
     "@11ty/eleventy": "^1.0.1"
   },
   "scripts": {
+    "create": "--save-dev @11ty/eleventy",
     "start": "eleventy --serve",
     "build": "eleventy"
   }

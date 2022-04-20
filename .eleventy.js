@@ -11,7 +11,7 @@ module.exports = function (eleventyConfig) {
             // put the layouts in their own folder
             // layouts: "_layouts",
             //change where the website it output
-            output: "website",
+            output: "final-website",
         }
     };
 };
